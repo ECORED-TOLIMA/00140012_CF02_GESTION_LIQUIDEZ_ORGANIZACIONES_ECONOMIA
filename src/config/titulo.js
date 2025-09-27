@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Asignación de recursos en organizaciones solidarias'
