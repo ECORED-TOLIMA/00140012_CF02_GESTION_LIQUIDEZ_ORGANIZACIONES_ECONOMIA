@@ -183,7 +183,7 @@ export default {
         {
           id: 8,
           texto:
-            'El principio de conformidad financiera. exige que las fuentes y usos de fondos coincidan en plazo.',
+            'El principio de conformidad financiera exige que las fuentes y usos de fondos coincidan en plazo.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [

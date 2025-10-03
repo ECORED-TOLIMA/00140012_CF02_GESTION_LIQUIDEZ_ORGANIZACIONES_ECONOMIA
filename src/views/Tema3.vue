@@ -90,36 +90,36 @@
 
     p.mb-4(data-aos="fade-right") Su correcta elaboración permite evaluar no solo el estado financiero de la organización, sino también la eficiencia en la planeación, asignación y utilización de los recursos disponibles. Por ello, es importante explicar en qué consiste cada uno: 
 
-    .tarjeta.tarjeta--gris.fondo.p-4.mb-4(data-aos="fade-left")
-      LineaTiempoC.color-acento-botones(text-small)
-        .row.justify-content-center(titulo="a.")
-          .col-lg-7.col-10.mb-lg-0.mb-4
-            figure
-              img(src='@/assets/curso/temas/tema3/img-07.png', alt='Texto que describa la imagen')
-          .col-lg-5
+    .tarjeta.tarjeta--BG02.p-4.p-md-5.mb-5
+      LineaTiempoC.color-acento-botones(text-small)(data-aos="flip-up")
+        .row(titulo="a.")
+          .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Informe contable 
             p Presenta el estado de situación financiera (balance general), el estado de resultados (pérdidas y ganancias) y el estado de cambios en el patrimonio. Este tipo de informe permite conocer la solvencia, liquidez y rentabilidad de la entidad. 
-        .row.justify-content-center(titulo="b.")
-          .col-lg-7.col-10.mb-lg-0.mb-4
+          .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema3/img-08.png', alt='Texto que describa la imagen')
-          .col-lg-5
+              img(src='@/assets/curso/temas/tema3/img-07.png', alt='Texto que describa la imagen')
+        .row(titulo="b.")
+          .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Informe presupuestal  
             p Compara los valores planeados con los efectivamente ejecutados, permitiendo analizar desviaciones y realizar ajustes oportunos. 
-        .row.justify-content-center(titulo="c.")
-          .col-lg-7.col-10.mb-lg-0.mb-4
+          .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema3/img-09.png', alt='Texto que describa la imagen')
-          .col-lg-5
+              img(src='@/assets/curso/temas/tema3/img-08.png', alt='Texto que describa la imagen')
+        .row(titulo="c.")
+          .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Informe de ejecución financiera 
             p Está orientado a mostrar cómo se distribuyeron y utilizaron los recursos durante un periodo determinado, vinculando los resultados financieros con las actividades desarrolladas. 
-        .row.justify-content-center(titulo="c.")
-          .col-lg-7.col-10.mb-lg-0.mb-4
+          .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
             figure
-              img(src='@/assets/curso/temas/tema3/img-10.png', alt='Texto que describa la imagen')
-          .col-lg-5
+              img(src='@/assets/curso/temas/tema3/img-09.png', alt='Texto que describa la imagen')
+        .row(titulo="c.")
+          .col-lg-5.mb-4.mb-md-0.order-lg-2.order-2
             h4 Informe de gestión financiera
             p Integra la perspectiva técnica con la estrategia organizacional, permitiendo evaluar si el uso de los recursos se alinea con la misión, visión y objetivos institucionales.
+          .col-lg-7.order-lg-1.order-1.mb-lg-0.mb-4
+            figure
+              img(src='@/assets/curso/temas/tema3/img-10.png', alt='Texto que describa la imagen')
 
     p.mb-0(data-aos="fade-right") Como lo indica Burbano Ruiz (2011), este tipo de informe es clave en el sector solidario, ya que permite valorar no solo el cumplimiento financiero, sino también el impacto social y comunitario de las decisiones económicas.
 

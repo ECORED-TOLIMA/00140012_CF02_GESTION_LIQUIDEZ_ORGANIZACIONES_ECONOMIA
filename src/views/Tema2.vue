@@ -161,7 +161,7 @@
         .row.justify-content-center.h-100.w-100
           .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
             .cajon.bg-color-1.p-0.h-100
-              img.h-100.my-auto(src='@/assets/curso/temas/tema2/img-11.svg' alt="Imagen decorativa")
+              img.h-100.my-auto(src='@/assets/curso/temas/tema2/img-09.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.bg-color-2.p-4.h-100
               p.mb-0 #[b Equidad]

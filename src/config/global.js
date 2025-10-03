@@ -135,7 +135,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Normatividad vigente aplicable a la asignación de recursosl',
+        titulo: 'Normatividad vigente aplicable a la asignación de recursos',
         desarrolloContenidos: true,
         subMenu: [
           {
