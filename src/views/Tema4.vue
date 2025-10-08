@@ -239,7 +239,7 @@
           .row
             .col-lg-5.order-2.order-lg-1
               h4(style="color:#000 !important") Facilita la comparación con el sector
-              p.mb-0(style="color:#000 !important") A través de indicadores financieros como el #[b ROE (Return on Equity), el ROA (Return on Assets)] y los márgenes de utilidad, se puede determinar si la empresa está generando beneficios adecuados en relación con sus recursos y estructura de costos.
+              p.mb-0(style="color:#000 !important") A través de #[em benchmarking] financiero, las empresas pueden comparar sus indicadores con los de otras organizaciones del mismo sector, identificando fortalezas y áreas de mejora.
             .col-lg-7.col-10.order-1.order-lg-2.mb-4  
               figure
                 img(src='@/assets/curso/temas/tema4/img-15.png', alt='Imagen decorativa')

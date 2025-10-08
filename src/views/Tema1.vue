@@ -20,7 +20,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h5.text-regular.bloque-texto-f__texto.text-center.mb-4 La planeación financiera es la herramienta clave para coordinar ingresos, egresos, inversiones y excedentes, con el fin de mantener la estabilidad y el crecimiento sostenido en el tiempo.”
+          h5.text-regular.bloque-texto-f__texto.text-center.mb-4 La planeación financiera es la herramienta clave para coordinar ingresos, egresos, inversiones y excedentes, con el fin de mantener la estabilidad y el crecimiento sostenido en el tiempo”
           .bloque-texto-f__autor.mb-3
             p.mb-0 #[b - León García (2009)]
           .bloque-texto-f__avatar
@@ -35,7 +35,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h5.text-regular.bloque-texto-f__texto.text-center.mb-4 En este contexto, la planeación no se limita únicamente al presupuesto operativo, sino que incluye también la programación de inversiones, la identificación de fuentes de financiación y el monitoreo de la ejecución financiera. 
+          h5.text-regular.bloque-texto-f__texto.text-center.mb-4 La planeación eficaz requiere establecer objetivos claros, jerarquizar necesidades y prever escenarios que permitan tomar decisiones acertadas ante la incertidumbre - Burbano Ruiz (2011).
           .bloque-texto-f__autor.mb-3
             p.mb-0 #[b - Burbano Ruiz (2011)]
           .bloque-texto-f__avatar

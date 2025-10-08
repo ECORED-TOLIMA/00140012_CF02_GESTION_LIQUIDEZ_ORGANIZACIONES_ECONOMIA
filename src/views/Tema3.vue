@@ -176,7 +176,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-16.png')})`}" data-aos="fade-left"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 El cruce entre el análisis de costos y las fuentes de financiación, permite evaluar la viabilidad de nuevas iniciativas y ajustar la planificación financiera a las condiciones reales de la organización. Burbano Ruiz (2011), señala que esta evaluación debe considerar no solo la rentabilidad esperada, sino también el riesgo financiero, la capacidad de endeudamiento y la alineación con los principios solidarios. Así, un análisis completo contribuye a que las decisiones de asignación de recursos se basen en datos sólidos, con criterios de eficiencia, equidad y sostenibilidad. Esto refuerza la transparencia institucional y fortalece la confianza de los asociados en la gestión financiera de su organización
+        p.mb-0 El cruce entre el análisis de costos y las fuentes de financiación, permite evaluar la viabilidad de nuevas iniciativas y ajustar la planificación financiera a las condiciones reales de la organización. Burbano Ruiz (2011), señala que esta evaluación debe considerar no solo la rentabilidad esperada, sino también el riesgo financiero, la capacidad de endeudamiento y la alineación con los principios solidarios. Así, un análisis completo contribuye a que las decisiones de asignación de recursos se basen en datos sólidos, con criterios de eficiencia, equidad y sostenibilidad. Esto refuerza la transparencia institucional y fortalece la confianza de los asociados en la gestión financiera de su organización.
 
     Separador
 

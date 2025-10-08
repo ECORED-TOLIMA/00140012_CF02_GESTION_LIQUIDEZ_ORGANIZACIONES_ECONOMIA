@@ -127,7 +127,7 @@ export default {
           {
             numero: '4.3',
             titulo:
-              'Aplicación de herramientas TIC para el seguimiento y control la asignación de recursos',
+              'Aplicación de herramientas TIC para el seguimiento y control',
             hash: 't_4_3',
           },
         ],
@@ -205,7 +205,7 @@ export default {
     {
       tema: '1. Planeación financiera en la economía solidaria',
       referencia:
-        'UNAD/Cudecoop. (2024, 23 de diciembre). <em>Educación Financiera para</em> [Video]. YouTube.',
+        'UNAD/Cudecoop. (2024, 23 de diciembre). <em>Educación Financiera para cooperativas</em> [Video]. YouTube.',
       tipo: 'Video',
       link: 'https://youtu.be/kZ-4KfYp7xg',
     },

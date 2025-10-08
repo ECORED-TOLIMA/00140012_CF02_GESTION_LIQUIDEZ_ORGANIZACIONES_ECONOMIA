@@ -105,8 +105,8 @@
           table
             thead
               tr(style="background-color: #FFFAE6")
-                th(data-aos="fade-down")(style="width: 15%") Tipo de método
-                th(data-aos="fade-down")(style="width: 15%") Nombre del método
+                th(data-aos="fade-down")(style="width: 16%") Tipo de método
+                th(data-aos="fade-down")(style="width: 16%") Nombre del método
                 th(data-aos="fade-down")(style="width: 16%") Descripción
                 th(data-aos="fade-down")(style="width: 16%") Ejemplo
                 th(data-aos="fade-down")(style="width: 16%") Ventajas
@@ -137,7 +137,7 @@
                 td(data-aos="fade-down")(style="background-color: #F6F6F6;") Alternativo
                 td.text-center(data-aos="fade-down")(style="background-color: #F6F6F6;") Asignación por resultados.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6;") Recursos distribuidos con base en el cumplimiento de metas.
-                td(data-aos="fade-down")(style="background-color: #F6F6F6;") Unidad productiva con ventas ≥ $5.000.000/trimestre recibe $2.000.000 extra para reinversión.
+                td(data-aos="fade-down")(style="background-color: #F6F6F6;") Unidad productiva con ventas ≥ $5.000.000/ trimestre recibe $2.000.000 extra para reinversión.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6;") Incentiva el desempeño y facilita medir impacto.
                 td(data-aos="fade-down")(style="background-color: #F6F6F6;") Puede desincentivar áreas con resultados menos cuantificables.
 
