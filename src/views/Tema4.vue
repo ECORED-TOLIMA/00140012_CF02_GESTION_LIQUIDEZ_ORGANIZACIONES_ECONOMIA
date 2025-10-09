@@ -218,21 +218,21 @@
           .row
             .col-lg-5.order-2.order-lg-1
               h4(style="color:#000 !important") Permite evaluar la rentabilidad y eficiencia
-              p.mb-0(style="color:#000 !important") A través de #[em benchmarking] financiero, las empresas pueden comparar sus indicadores con los de otras organizaciones del mismo sector, identificando fortalezas y áreas de mejora.
+              p.mb-0(style="color:#000 !important") A través de indicadores financieros como el #[b ROE (Return on Equity)], el #[b ROA (Return on Assets)] y los márgenes de utilidad, se puede determinar si la empresa está generando beneficios adecuados en relación con sus recursos y estructura de costos.
             .col-lg-7.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img-12.png', alt='Imagen decorativa')
           .row
             .col-lg-5.order-2.order-lg-1
               h4(style="color:#000 !important") Mejora la gestión del riesgo
-              p.mb-0(style="color:#000 !important") Permite identificar oportunidades para mejorar la rotación de inventarios, optimizar las cuentas por cobrar y manejar eficientemente las cuentas por pagar, asegurando que la empresa tenga suficiente efectivo para operar sin dificultades.
+              p.mb-0(style="color:#000 !important") El análisis financiero ayuda a identificar riesgos financieros, operativos y de mercado que pueden afectar la estabilidad de la empresa. Por ejemplo, mediante el análisis de #[b liquidez], se puede evaluar la capacidad de la empresa para cumplir con sus obligaciones de corto plazo.
             .col-lg-7.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img-13.png', alt='Imagen decorativa')
           .row
             .col-lg-5.order-2.order-lg-1
               h4(style="color:#000 !important") Optimiza la gestión del capital de trabajo
-              p.mb-0(style="color:#000 !important") El análisis financiero ayuda a identificar riesgos financieros, operativos y de mercado que pueden afectar la estabilidad de la empresa. Por ejemplo, mediante el análisis de #[b liquidez], se puede evaluar la capacidad de la empresa para cumplir con sus obligaciones de corto plazo.
+              p.mb-0(style="color:#000 !important") Permite identificar oportunidades para mejorar la rotación de inventarios, optimizar las cuentas por cobrar y manejar eficientemente las cuentas por pagar, asegurando que la empresa tenga suficiente efectivo para operar sin dificultades.
             .col-lg-7.col-10.order-1.order-lg-2.mb-4  
               figure
                 img(src='@/assets/curso/temas/tema4/img-14.png', alt='Imagen decorativa')

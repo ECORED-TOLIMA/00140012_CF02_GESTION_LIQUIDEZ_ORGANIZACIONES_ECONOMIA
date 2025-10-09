@@ -20,7 +20,7 @@
           .bloque-texto-f__comillas
             i.fas.fa-quote-left
             i.fas.fa-quote-right
-          h5.text-regular.bloque-texto-f__texto.text-center.mb-4 La planeación financiera es la herramienta clave para coordinar ingresos, egresos, inversiones y excedentes, con el fin de mantener la estabilidad y el crecimiento sostenido en el tiempo”
+          h5.text-regular.bloque-texto-f__texto.text-center.mb-4 La planeación financiera es la herramienta clave para coordinar ingresos, egresos, inversiones y excedentes, con el fin de mantener la estabilidad y el crecimiento sostenido en el tiempo
           .bloque-texto-f__autor.mb-3
             p.mb-0 #[b - León García (2009)]
           .bloque-texto-f__avatar
