@@ -4,7 +4,6 @@ export default {
     descripcionCurso:
       'Este componente busca que los aprendices planifiquen, distribuyan y controlen recursos financieros en organizaciones solidarias, considerando disponibilidad, objetivos y normas vigentes. Mediante análisis de informes, indicadores de eficiencia y herramientas tecnológicas, se impulsa una gestión informada, equitativa y transparente que asegure sostenibilidad y cumplimiento del objeto social.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
